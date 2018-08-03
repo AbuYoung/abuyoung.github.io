@@ -5,6 +5,9 @@
     <link>https://abuyoung.github.io/post/</link>
     <description>Recent content in Posts on Blue Oasis</description>
     <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>abuyoung@outlook.com (abuyoung)</managingEditor>
+    <webMaster>abuyoung@outlook.com (abuyoung)</webMaster>
+    <copyright>(c) 2018 abuyoung</copyright>
     <lastBuildDate>Wed, 18 Jul 2018 22:53:56 +0800</lastBuildDate>
     
 	<atom:link href="https://abuyoung.github.io/post/index.xml" rel="self" type="application/rss+xml" />
@@ -12,10 +15,10 @@
     
     <item>
       <title>Skills</title>
-      <link>https://abuyoung.github.io/post/skills/</link>
+      <link>https://abuyoung.github.io/2018/07/18/skills/</link>
       <pubDate>Wed, 18 Jul 2018 22:53:56 +0800</pubDate>
-      
-      <guid>https://abuyoung.github.io/post/skills/</guid>
+      <author>abuyoung@outlook.com (abuyoung)</author>
+      <guid>https://abuyoung.github.io/2018/07/18/skills/</guid>
       <description>应掌握的技能 算法  二分搜索 Binary Search
  分治 Divide Conquer
  宽度 Breadth First Search

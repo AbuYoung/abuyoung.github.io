@@ -5,6 +5,9 @@
     <link>https://abuyoung.github.io/tags/</link>
     <description>Recent content in Tags on Blue Oasis</description>
     <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>abuyoung@outlook.com (abuyoung)</managingEditor>
+    <webMaster>abuyoung@outlook.com (abuyoung)</webMaster>
+    <copyright>(c) 2018 abuyoung</copyright>
     <lastBuildDate>Sat, 14 Oct 2017 22:24:20 +0800</lastBuildDate>
     
 	<atom:link href="https://abuyoung.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -14,7 +17,7 @@
       <title>About</title>
       <link>https://abuyoung.github.io/tags/about/</link>
       <pubDate>Sat, 14 Oct 2017 22:24:20 +0800</pubDate>
-      
+      <author>abuyoung@outlook.com (abuyoung)</author>
       <guid>https://abuyoung.github.io/tags/about/</guid>
       <description></description>
     </item>
