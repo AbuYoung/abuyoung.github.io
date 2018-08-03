@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Blue Oasis</title>
-    <link>https://abuyoung.github.io/post/</link>
-    <description>Recent content in Posts on Blue Oasis</description>
+    <title>Mood on Blue Oasis</title>
+    <link>https://abuyoung.github.io/tags/mood/</link>
+    <description>Recent content in Mood on Blue Oasis</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>abuyoung@outlook.com (abuyoung)</managingEditor>
     <webMaster>abuyoung@outlook.com (abuyoung)</webMaster>
     <copyright>(c) 2018 abuyoung</copyright>
     <lastBuildDate>Sat, 04 Aug 2018 00:53:32 +0800</lastBuildDate>
     
-	<atom:link href="https://abuyoung.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://abuyoung.github.io/tags/mood/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -64,30 +64,6 @@
 夫妻俩对我的态度真是两极反转。
 但是他的想法，我一直猜不透……
 to be continued</description>
-    </item>
-    
-    <item>
-      <title>Skills</title>
-      <link>https://abuyoung.github.io/2018/07/18/skills/</link>
-      <pubDate>Wed, 18 Jul 2018 22:53:56 +0800</pubDate>
-      <author>abuyoung@outlook.com (abuyoung)</author>
-      <guid>https://abuyoung.github.io/2018/07/18/skills/</guid>
-      <description>应掌握的技能 算法  二分搜索 Binary Search
- 分治 Divide Conquer
- 宽度 Breadth First Search
- 深度优先搜索 Depth First Search
- 回测法 Backtracking
- 双指针 Two Pointers
- 动态规划 Dynamic Programing
- 扫描线 Scan-line algorithm
- 快排 Quick Sort  数据结构  栈 Stack
- 队列 Queue
- 链表 Linked List
- 数组 Array
- 哈希表 Hash Table
- 二叉树 Binary Tree
- 堆 Heap
- 并查集 Union Find</description>
     </item>
     
     <item>
