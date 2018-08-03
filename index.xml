@@ -36,10 +36,21 @@
     
     <item>
       <title>About</title>
-      <link>https://abuyoung.github.io/about/</link>
+      <link>https://abuyoung.github.io/about1/</link>
       <pubDate>Sat, 14 Oct 2017 22:24:20 +0800</pubDate>
       
-      <guid>https://abuyoung.github.io/about/</guid>
+      <guid>https://abuyoung.github.io/about1/</guid>
+      <description>say hi to me Hi
+欢迎来到这片荒芜的绿洲
+enjoy yourself</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://abuyoung.github.io/about/about/</link>
+      <pubDate>Sat, 14 Oct 2017 22:24:20 +0800</pubDate>
+      
+      <guid>https://abuyoung.github.io/about/about/</guid>
       <description>say hi to me Hi
 欢迎来到这片荒芜的绿洲
 enjoy yourself</description>
