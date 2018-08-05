@@ -8,10 +8,20 @@
     <managingEditor>abuyoung@outlook.com (abuyoung)</managingEditor>
     <webMaster>abuyoung@outlook.com (abuyoung)</webMaster>
     <copyright>(c) 2018 abuyoung</copyright>
-    <lastBuildDate>Sat, 04 Aug 2018 00:53:32 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 05 Aug 2018 17:13:43 +0800</lastBuildDate>
     
 	<atom:link href="https://abuyoung.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>欲望清单</title>
+      <link>https://abuyoung.github.io/want/</link>
+      <pubDate>Sun, 05 Aug 2018 17:13:43 +0800</pubDate>
+      <author>abuyoung@outlook.com (abuyoung)</author>
+      <guid>https://abuyoung.github.io/want/</guid>
+      <description> 列出个清单看看我还有啥想要的…
+想买的东西 </description>
+    </item>
     
     <item>
       <title>小时候的二三事</title>
