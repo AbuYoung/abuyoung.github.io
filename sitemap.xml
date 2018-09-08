@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://abuyoung.github.io/daywithfan/</loc>
+    <lastmod>2018-08-30T15:31:45+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://abuyoung.github.io/wordsoffan/</loc>
     <lastmod>2018-08-26T23:04:07+08:00</lastmod>
   </url>
@@ -45,7 +50,12 @@
   
   <url>
     <loc>https://abuyoung.github.io/</loc>
-    <lastmod>2018-08-26T23:04:07+08:00</lastmod>
+    <lastmod>2018-08-30T15:31:45+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://abuyoung.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
@@ -70,11 +80,6 @@
   <url>
     <loc>https://abuyoung.github.io/tags/</loc>
     <lastmod>2017-10-14T22:24:20+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://abuyoung.github.io/topics/</loc>
     <priority>0</priority>
   </url>
   

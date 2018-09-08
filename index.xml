@@ -8,10 +8,19 @@
     <managingEditor>abuyoung@outlook.com (abuyoung)</managingEditor>
     <webMaster>abuyoung@outlook.com (abuyoung)</webMaster>
     <copyright>(c) 2018 abuyoung</copyright>
-    <lastBuildDate>Sun, 26 Aug 2018 23:04:07 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 30 Aug 2018 15:31:45 +0800</lastBuildDate>
     
 	<atom:link href="https://abuyoung.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Day with fan</title>
+      <link>https://abuyoung.github.io/daywithfan/</link>
+      <pubDate>Thu, 30 Aug 2018 15:31:45 +0800</pubDate>
+      <author>abuyoung@outlook.com (abuyoung)</author>
+      <guid>https://abuyoung.github.io/daywithfan/</guid>
+      <description> 和饭宝宝在一起的日子 </description>
+    </item>
     
     <item>
       <title>饭宝宝的教诲</title>
