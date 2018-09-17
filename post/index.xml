@@ -8,10 +8,24 @@
     <managingEditor>abuyoung@outlook.com (abuyoung)</managingEditor>
     <webMaster>abuyoung@outlook.com (abuyoung)</webMaster>
     <copyright>(c) 2018 abuyoung</copyright>
-    <lastBuildDate>Mon, 06 Aug 2018 22:37:34 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 16 Sep 2018 15:19:09 +0800</lastBuildDate>
     
 	<atom:link href="https://abuyoung.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>tmux 学习记录</title>
+      <link>https://abuyoung.github.io/2018/09/16/tmux-%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/</link>
+      <pubDate>Sun, 16 Sep 2018 15:19:09 +0800</pubDate>
+      <author>abuyoung@outlook.com (abuyoung)</author>
+      <guid>https://abuyoung.github.io/2018/09/16/tmux-%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/</guid>
+      <description>学习记录 买了新电脑 hp elitebook 735 g5 之后，就（又）开始了折腾 linux 的生活…
+因为这台笔记本搭载的是 AMD 的 APU 平台，所以在安装 linux 的时候遇到了不少和驱动有关的麻烦事。
+最后仔细思考下，我只是为了一个在 linux 下的工作环境，并不是为了折腾 Linux 而安装它。
+所以最后选择了在安装时就备齐了各种驱动的 Ubuntu （真香）。
+安装好 Ubuntu 后，就折腾了下 gnome 桌面环境以及终端下的几个必备软件，
+比如 zsh，neovim，以及本文的主角，tmux。</description>
+    </item>
     
     <item>
       <title>最近想买一台胶片相机</title>
@@ -44,7 +58,13 @@
       <guid>https://abuyoung.github.io/2018/07/18/skills/</guid>
       <description>&lt;h1 id=&#34;应掌握的技能&#34;&gt;应掌握的技能&lt;/h1&gt;
 
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;h2 id=&#34;算法&#34;&gt;算法&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;二分搜索 Binary Search&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;分治 Divide Conquer&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;宽度 Breadth First Search&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;深度优先搜索 Depth First Search&lt;br /&gt;</description>
     </item>
     
     <item>
