@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://abuyoung.github.io/2018/10/10/%E4%B8%8A%E6%B5%B7%E4%B9%8B%E8%A1%8C/</loc>
+    <lastmod>2018-10-10T22:50:50+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://abuyoung.github.io/2018/10/10/%E5%8D%81%E4%B8%80--%E9%A5%AD%E5%AE%9D%E5%AE%9D/</loc>
     <lastmod>2018-10-10T10:15:46+08:00</lastmod>
   </url>
@@ -55,7 +60,7 @@
   
   <url>
     <loc>https://abuyoung.github.io/</loc>
-    <lastmod>2018-10-10T10:15:46+08:00</lastmod>
+    <lastmod>2018-10-10T22:50:50+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -67,7 +72,7 @@
   
   <url>
     <loc>https://abuyoung.github.io/post/</loc>
-    <lastmod>2018-10-10T10:15:46+08:00</lastmod>
+    <lastmod>2018-10-10T22:50:50+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -85,6 +90,12 @@
   
   <url>
     <loc>https://abuyoung.github.io/topics/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://abuyoung.github.io/tags/travel/</loc>
+    <lastmod>2018-10-10T22:50:50+08:00</lastmod>
     <priority>0</priority>
   </url>
   
