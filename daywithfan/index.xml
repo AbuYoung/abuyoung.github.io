@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daywithfans on Blue Oasis</title>
+    <link>https://abuyoung.github.io/daywithfan/</link>
+    <description>Recent content in Daywithfans on Blue Oasis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>abuyoung@outlook.com (abuyoung)</managingEditor>
+    <webMaster>abuyoung@outlook.com (abuyoung)</webMaster>
+    <copyright>(c) 2018 abuyoung</copyright>
+    <lastBuildDate>Thu, 30 Aug 2018 15:31:45 +0800</lastBuildDate>
+    
+	<atom:link href="https://abuyoung.github.io/daywithfan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Day with fan</title>
+      <link>https://abuyoung.github.io/daywithfan/daywithfan/</link>
+      <pubDate>Thu, 30 Aug 2018 15:31:45 +0800</pubDate>
+      <author>abuyoung@outlook.com (abuyoung)</author>
+      <guid>https://abuyoung.github.io/daywithfan/daywithfan/</guid>
+      <description>和饭宝宝在一起的日子 添加倒计时特效 ×</description>
+    </item>
+    
+  </channel>
+</rss>

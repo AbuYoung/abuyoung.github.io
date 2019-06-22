@@ -43,8 +43,14 @@
   </url>
   
   <url>
+    <loc>https://abuyoung.github.io/daywithfan/daywithfan/</loc>
+    <lastmod>2018-08-30T15:31:45+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://abuyoung.github.io/daywithfan/</loc>
     <lastmod>2018-08-30T15:31:45+08:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
