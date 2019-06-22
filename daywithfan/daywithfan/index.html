@@ -187,8 +187,9 @@
       Date.prototype.diff = function(target){
         var ret = [];
         var millisecs = target.getTime() - this.getTime();
-        ret.push(target.getFullYear() - this.getFullYear());
-        ret.push((target.getMonth() + 1) + ((target.getFullYear() - this.getFullYear()) * 12) - (target.getMonth() + 1));
+        ret.push(countyear(millisecs));
+        
+        ret.push(conutmonth(millisecs));
         ret.push(Math.floor(millisecs / 86400000));
         ret.push(Math.floor(millisecs / 3600000));
         ret.push(Math.floor(millisecs / 60000));
@@ -205,6 +206,27 @@
       showText.push(diffe[4] + "分钟");
       showText.push(diffe[5] + "秒");
       document.getElementById("day").value=showText.join("");
+    }
+    function countyear(sec){
+      var day = Math.floor(sec / 86400000);
+      if(day > 365){
+        var year = Math.floor(day / 365);
+      }else{
+        year=0;
+      }
+      return year;
+    }
+    function conutmonth(sec){
+      var month;
+      var day = Math.floor(sec / 86400000);
+      if(countyear(sec) >= 1){
+        var temp = Math.floor(day / 365);
+        day = day - temp*365;
+        month = Math.floor(day / 30);
+      }else{
+        month = Math.floor(day / 30);
+      }
+      return month;
     }
     </script>
 </article>
