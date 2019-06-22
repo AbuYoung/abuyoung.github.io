@@ -51,7 +51,7 @@
     },
     "datePublished": "2018-08-30",
     "description": "",
-    "wordCount":  3 
+    "wordCount":  1 
   }
 </script>
 
@@ -161,7 +161,6 @@
 
 
 <article id="main-content" class="container main_content single">
-    this is a test
   <header class="container hat">
   <h1>Day with fan
 </h1>
@@ -173,49 +172,39 @@
 
 <h1 id="和饭宝宝在一起的日子">和饭宝宝在一起的日子</h1>
 
-<p>添加倒计时特效 ×</p>
-
 </div>
 
 
-  <script>
-  function settime() {
-  var time = "2011/5/24/17/21/0";  
-  var date = time.split('/');
-  var date1 = new Date(); 
-  var date2 = new Date(); 
-  var innerhtml_tip="";
-  date1.setFullYear(date[2018], (date[8]-1), date[12]); 
-  date1.setHours(date[15], date[13], date[14], 0); 
-  var differtime = parseInt((date1.getTime() - date2.getTime()) / 1000);
-  if (differtime < 0) {
-  innerhtml_tip = "<font color='red'>您设置的纪念日已经过去了" 
-    + differtime.toString().split('-')[1] 
-    + "秒。</font>";
-  }
-  else
-  innerhtml_tip = "<font color='green'>距离纪念日还有" + differtime + "秒</font>";
-  document.getElementById("label1").innerHTML = innerhtml_tip;
-  setTimeout("settime()", 1000);
-  }
-</script>
-<script>
-    alert("Hello World for js");
-</script>
   
-  <input type="text" id="clock" />
-  <input type="text" id="day" />
+
+  <output type="text" id="day" style="font-size:200%"/>
+
   <script type="text/javascript">
-    alert("count")
     var int=self.setInterval("clock()",1000);
-    function clock()
-    {
-      var day=new Date();
-      var d=new Date();
-      var t=d.toLocaleTimeString();
-      var tay=day.toLocaleTimeString();
-      document.getElementById("clock").value=t;
-      document.getElementById("day").value=tay;
+    function clock(){
+      var d3=new Date(2018,7,12,0,0,0);
+    
+      Date.prototype.diff = function(target){
+        var ret = [];
+        var millisecs = target.getTime() - this.getTime();
+        ret.push(target.getFullYear() - this.getFullYear());
+        ret.push((target.getMonth() + 1) + ((target.getFullYear() - this.getFullYear()) * 12) - (target.getMonth() + 1));
+        ret.push(Math.floor(millisecs / 86400000));
+        ret.push(Math.floor(millisecs / 3600000));
+        ret.push(Math.floor(millisecs / 60000));
+        ret.push(Math.floor(millisecs / 1000));
+        ret.push(millisecs);
+        return ret;
+      };
+      var diffe = d3.diff(new Date());
+      var showText = ["已经过了"];
+      showText.push(diffe[0] + "年");
+      showText.push(diffe[1] + "月");
+      showText.push(diffe[2] + "日");
+      showText.push(diffe[3] + "小时");
+      showText.push(diffe[4] + "分钟");
+      showText.push(diffe[5] + "秒");
+      document.getElementById("day").value=showText.join("");
     }
     </script>
 </article>
